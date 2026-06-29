@@ -1,0 +1,8 @@
+{
+  "short_name": "انبار",
+  "name": "سیستم انبار اداره",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a2744",
+  "background_color": "#f0f4f8"
+}
